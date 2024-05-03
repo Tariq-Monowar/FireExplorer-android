@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658964936727",
+    "project_id": "learn-react-native-eac9e",
+    "storage_bucket": "learn-react-native-eac9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658964936727:android:f8f101e18bd21940c28452",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7KNQD3KkiLAculv3RFE-AueAEE-epI0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
